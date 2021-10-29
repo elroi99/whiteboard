@@ -106,6 +106,7 @@ body {
     height: 15rem;
     width: 15rem;
     position: absolute;
+    background-color: white;
     top: 15rem;
     left: 10rem;
     border-radius: 10px;
